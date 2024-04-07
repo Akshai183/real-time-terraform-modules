@@ -1,0 +1,6 @@
+{
+    "access_key": "",
+    "secret_key": "",
+    "region": ""
+}
+#Not Needed for workspaces. Can be used with gitlab pipeline.
